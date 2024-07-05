@@ -1,2 +1,2 @@
-# 3DModels
-3DModel Assets Collected by Me~~
+# 3D Models
+3D Model Assets Collected by Me~~
